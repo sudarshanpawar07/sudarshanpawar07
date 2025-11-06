@@ -1,52 +1,102 @@
-<div align="center" style="background-color:#0d1117; padding: 30px 10px; border-radius: 10px;">
+<!-- Simple, clean GitHub profile README for Sudarshan Pawar -->
 
-<h1 style="color:#ffffff;">Hi, I'm Sudarshan 👋</h1>
-<h3 style="color:#58a6ff;">🚀 Aspiring SQL Developer | Java Programmer | Future Full-Stack Engineer</h3>
+<div align="center">
 
+# 👋 Hi, I'm **Sudarshan Pawar**
+
+### 🚀 Aspiring Software Engineer | SQL Developer | Java Programmer  
+🌱 Passionate about backend development, databases, and clean code
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Core Skills
+`Core Java` • `SQL` • `OOP`  
+
+### 🌱 Currently Learning
+`HTML` • `CSS` • `JavaScript`
+
+### ⚙️ Tools & IDEs
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🍽️ **Food Recipe App**
+**Tech:** Python, Flask, HTML/CSS, REST API, Jinja2  
+Built a recipe search app using the Spoonacular API to fetch and display real-time recipe data.  
+Implemented **GET/POST requests**, dynamic **Jinja2 templates**, and a clean, responsive UI.
+
+### 🗂️ **Project Management System (SQL)**
+**Tech:** Oracle SQL*Plus  
+Designed and implemented a **relational database** with modules for Employees, Projects, Tasks, and Allocations.  
+Created **queries, triggers, and reports** to track project progress and resource utilization.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **SQL – 5★ Gold Badge** (HackerRank)  
+- 🧩 **Basic Python** — Infosys Springboard  
+- 🕒 **Time Management** — Infosys Springboard  
+- 💬 **Effective Communication** — Web Veda (Ongoing)  
+- 🤖 **Prompt Engineering for Developers** — DeepLearning.AI  
+
+---
+
+## 🎯 2025 Goals
+
+- 💻 Begin my career as an **SQL / Java Developer**  
+- 🌐 Build and deploy **Full-Stack Web Projects**  
+- 📈 Create my **Personal Portfolio Website**  
+- 🤝 Contribute to **Open-Source Projects**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sudarshanpawar0007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudarshan-pawar01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sudarshanpawar07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/sudarshanpawar01">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudarshanpawar07&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudarshanpawar07&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 💬 Quote to Code By
+
+> 🧠 *“Persistence is the bridge between practice and mastery.”*
+
+---
+
+✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
 </div>
-
----
-
-### 💡 Tech I Work With
-
-- 💻 **Languages:**  
-  `SQL` • `Java`
-  
-- 🧰 **Tools & IDEs:**  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-
-- 📚 **Currently Learning:**  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 🔗 Connect with Me
-
-- 📧 **Email:** [sudarshanpawar0007@gmail.com](mailto:sudarshanpawar0007@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sudarshan-pawar01](https://www.linkedin.com/in/sudarshan-pawar01/)  
-- 🌐 **Portfolio:** *Coming Soon*
-
----
-
-### ✨ About Me
-
-- 🧠 Passionate about solving real-world problems through **clean, efficient code**  
-- 🏙️ Based in Pune, currently preparing for **SQL Developer** roles  
-- 🔧 Building strong fundamentals in **backend & frontend technologies**
-
----
-
-### 🚀 2025 Goals
-
-- ✅ Secure a position as an **SQL or Java Developer**  
-- 💻 Begin working on **full-stack development projects**  
-- 📈 Grow my GitHub, Instagram, and portfolio presence
-
----
-
-> 📌 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
